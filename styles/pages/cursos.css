@@ -11,13 +11,13 @@
     width: 60%;
     height: 1000px;
     margin: 40px auto;
+}
+
+.cursos {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-gap: 20px;
-}
-
-.cursos {
     background-color: #0A1234;
     color: #fff;
 }
