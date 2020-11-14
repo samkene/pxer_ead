@@ -14,13 +14,13 @@
     grid-gap: 20px;
 }
 
-#cursos {
+.cursos {
     width: 60%;
     margin: 40px auto;
     background-color: #0A1234;
     color: #fff;
 }
 
-#curso {
+.curso {
     background-color: teal;
 }
