@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Comeco do Container */
+
+#px-container {
+    display: grid;
+}
+
+#cursos {
+    background-color: yellow;
+}
+
+#curso {
+    background-color: teal;
+}
