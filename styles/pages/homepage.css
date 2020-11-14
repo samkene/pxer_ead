@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Comeco do Container */
+
+#banner {
+    background-image: url("../../images/banner.jpg");
+    height: 360px;
+}
+
+#b-container {
+    width: 60%;
+    margin: 0 20%;
+    padding: 100px 50px;
+}
+
+#b-container h3 {
+    color: #fff;
+    font-size: 56px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background: #0A1234;
+    transform: skewX(-10deg);
+    display: inline-block;
+}
+
+#b-container p {
+    color: #0A1234;
+    font-size: 32px;
+    font-weight: bold;
+}

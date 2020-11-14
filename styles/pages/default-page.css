@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+html {
+    background-color: #EEEEEE;
+}
+
+/* Comeco do Header */
+
+#px-header {
+    width: 100%;
+    height: 80px;
+    background-color: #0A1234;
+    position: sticky;
+    top: 0px;
+}
+
+#hd-container {
+    padding: 8px 20%;
+    width: 60%;
+}
+
+#px-header img {
+    width: 60px;
+}
+
+#px-header li {
+    float: left;
+    list-style-type: none;
+}
+
+#px-header li, a {
+    padding: 20px 10px;
+}
+
+#px-header li:hover {
+    border-bottom: 1px solid #0A1234;
+}
+
+#px-header a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#px-header a:hover {
+    color: #DFDFDF;
+}
+
+#navbar {
+    float: right;
+}
+
+#navbar span {
+    color: #0A1234;
+    background-color: #FFFFFF;
+    padding: 12px 35px;
+    border: 0px;
+    border-radius: 10px;
+}
+
+#navbar span:hover {
+    background-color: #DFDFDF;
+}
+
+/* Comeco do Footer */
+
+#px-footer {
+    width: 100%;
+    height: 260px;
+    background-color: #DFDFDF; 
+    position: absolute;
+    bottom: 0px;
+}
+
+#columns {
+    width: 60%;
+    margin: 0 20%;
+    color: #0A1234;
+}
+
+#column {
+    float: left;
+    width: 33.33%;
+    height: 260px;
+}
+
+#column h3 {
+    margin-top: 20px;
+    padding: 20px 0px;
+    font-size: 14px;
+}
+
+#column li {
+    padding: 10px 0px;
+    list-style-type: none;
+    font-size: 16px;
+}
+
+#column a {
+    text-decoration: none;
+    color: #0A1234;
+}
+
+#image {
+    text-align: center;
+    padding: 10%;
+}
+
+#column img {
+    width: 142px;
+}
