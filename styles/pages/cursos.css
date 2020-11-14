@@ -8,6 +8,9 @@
 /* Comeco do Container */
 
 #px-container {
+    width: 60%;
+    height: 1000px;
+    margin: 40px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
@@ -15,8 +18,6 @@
 }
 
 .cursos {
-    width: 60%;
-    margin: 40px auto;
     background-color: #0A1234;
     color: #fff;
 }
