@@ -39,11 +39,17 @@
     padding-left: 20px;
 }
 
+#form-entrar input[type=submit] {
+    width: 100%;
+    height: 40px;
+    margin: 10px 0px;
+}
+
 #form-entrar label {
     float: left;
     margin: 5px 0px;
 }
 
-#entrar::after {
+#entrar:after {
     margin-top: 60px;
 }
