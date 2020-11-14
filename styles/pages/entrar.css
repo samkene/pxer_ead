@@ -29,7 +29,7 @@
     padding: 0px 32px;
 }
 
-#form-entrar input {
+#form-entrar input[type=email], input[type=password] {
     clear: left;
     display: block;
     box-sizing: border-box;
