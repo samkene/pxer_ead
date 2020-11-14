@@ -12,7 +12,10 @@
 }
 
 #cursos {
-    background-color: yellow;
+    width: 60%;
+    margin: 40px auto;
+    background-color: #0A1234;
+    color: #fff;
 }
 
 #curso {
